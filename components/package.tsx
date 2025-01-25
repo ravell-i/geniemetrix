@@ -1,6 +1,6 @@
 import Spotlight from "@/components/spotlight";
 
-export default function Workflows() {
+export default function Package() {
   const freePrice = "0,00";
   const premiumPrice = "2,99";
 
